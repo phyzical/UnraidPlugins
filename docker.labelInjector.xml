@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURL>
+        https://raw.githubusercontent.com/phyzical/docker.labelInjector/main/docker.labelInjector.plg</PluginURL>
+    <PluginAuthor>Phyzical</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Other:</Category>
+    <Name>docker.labelInjector</Name>
+    <Description>
+        This plugin adds a quick way to add/modify/remove labels to all selected containers from the
+        docker tab in unraid
+</Description>
+    <Support>https://github.com/phyzical/docker.labelInjector</Support>
+    <Icon>folder-open-o</Icon>
+    <IconFA>refresh</IconFA>
+    <Screenshot>
+        https://github.com/phyzical/docker.labelInjector/blob/main/images/button.png</Screenshot>
+    <Screenshot>https://github.com/phyzical/docker.labelInjector/blob/main/images/form.png</Screenshot>
+</Containers>

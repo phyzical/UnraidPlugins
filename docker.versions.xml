@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Containers>
+    <PluginURL>
+        https://raw.githubusercontent.com/phyzical/docker.versions/main/docker.versions.plg</PluginURL>
+    <PluginAuthor>Phyzical</PluginAuthor>
+    <Beta>False</Beta>
+    <Category>Other:</Category>
+    <Name>docker.versions</Name>
+    <Description>
+        This plugin will attempt to generate changelogs based on github releases once a changelog
+        button is clicked
+</Description>
+    <Support>https://github.com/phyzical/docker.versions</Support>
+    <Icon>folder-open-o</Icon>
+    <IconFA>refresh</IconFA>
+    <Screenshot>
+        https://github.com/phyzical/docker.versions/blob/main/images/all.png</Screenshot>
+    <Screenshot>https://github.com/phyzical/docker.versions/blob/main/images/none.png</Screenshot>
+    <Screenshot>https://github.com/phyzical/docker.versions/blob/main/images/semi.png</Screenshot>
+</Containers>
