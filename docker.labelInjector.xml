@@ -9,10 +9,9 @@
     <Description>
         This plugin adds a quick way to add/modify/remove labels to all selected containers from the
         docker tab in unraid
-</Description>
+    </Description>
     <Support>https://github.com/phyzical/docker.labelInjector</Support>
-    <Icon>folder-open-o</Icon>
-    <IconFA>refresh</IconFA>
+    <Icon>https://github.com/phyzical/docker.labelInjector/blob/main/src/docker.labelInjector/usr/local/emhttp/plugins/docker.labelInjector/icon.png</Icon>
     <Screenshot>
         https://github.com/phyzical/docker.labelInjector/blob/main/images/button.png</Screenshot>
     <Screenshot>https://github.com/phyzical/docker.labelInjector/blob/main/images/form.png</Screenshot>
