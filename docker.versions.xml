@@ -12,8 +12,10 @@
     </Description>
     <Support>https://github.com/phyzical/docker.versions</Support>
     <Icon>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/src/docker.versions/usr/local/emhttp/plugins/docker.versions/icon.png</Icon>
-    <Screenshot>
-        https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/all.png</Screenshot>
+    <Screenshot>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/all.png</Screenshot>
+    <Screenshot>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/duplicated.png</Screenshot>
     <Screenshot>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/none.png</Screenshot>
-    <Screenshot>https://raw.githubusercontent.com/docker.versions/refs/heads/main/images/semi.png</Screenshot>
+    <Screenshot>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/secondary.png</Screenshot>
+    <Screenshot>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/semi.png</Screenshot>
+    <Screenshot>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/tags.png</Screenshot>
 </Containers>
