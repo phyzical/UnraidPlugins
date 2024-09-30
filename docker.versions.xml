@@ -11,9 +11,9 @@
         button is clicked
     </Description>
     <Support>https://github.com/phyzical/docker.versions</Support>
-    <Icon>https://github.com/phyzical/docker.versions/blob/main/src/docker.versions/usr/local/emhttp/plugins/docker.versions/icon.png</Icon>
+    <Icon>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/src/docker.versions/usr/local/emhttp/plugins/docker.versions/icon.png</Icon>
     <Screenshot>
-        https://github.com/phyzical/docker.versions/blob/main/images/all.png</Screenshot>
-    <Screenshot>https://github.com/phyzical/docker.versions/blob/main/images/none.png</Screenshot>
-    <Screenshot>https://github.com/phyzical/docker.versions/blob/main/images/semi.png</Screenshot>
+        https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/all.png</Screenshot>
+    <Screenshot>https://raw.githubusercontent.com/phyzical/docker.versions/refs/heads/main/images/none.png</Screenshot>
+    <Screenshot>https://raw.githubusercontent.com/docker.versions/refs/heads/main/images/semi.png</Screenshot>
 </Containers>

@@ -11,8 +11,8 @@
         docker tab in unraid
     </Description>
     <Support>https://github.com/phyzical/docker.labelInjector</Support>
-    <Icon>https://github.com/phyzical/docker.labelInjector/blob/main/src/docker.labelInjector/usr/local/emhttp/plugins/docker.labelInjector/icon.png</Icon>
+    <Icon>https://raw.githubusercontent.com/phyzical/docker.labelInjector/refs/heads/main/src/docker.labelInjector/usr/local/emhttp/plugins/docker.labelInjector/icon.png</Icon>
     <Screenshot>
-        https://github.com/phyzical/docker.labelInjector/blob/main/images/button.png</Screenshot>
-    <Screenshot>https://github.com/phyzical/docker.labelInjector/blob/main/images/form.png</Screenshot>
+        https://github.com/phyzical/docker.labelInjector/refs/heads/main/images/button.png</Screenshot>
+    <Screenshot>https://github.com/phyzical/docker.labelInjector/refs/heads/main/images/form.png</Screenshot>
 </Containers>
